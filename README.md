@@ -10,7 +10,6 @@ Aplicativo desenvolvido em Flutter para Android, com o objetivo de auxiliar joga
 - **IDE:** Android Studio  
 - **Framework:** Flutter  
 - **Linguagem:** Dart  
-- **Compatibilidade:** Apenas dispositivos Android
 
 ---
 
@@ -46,6 +45,7 @@ Aplicativo desenvolvido em Flutter para Android, com o objetivo de auxiliar joga
 - Exportação de ficha em PDF
 - Rolagens automáticas baseadas nos atributos
 - Sistema de salvamento e carregamento de personagens
+
 
 
 
