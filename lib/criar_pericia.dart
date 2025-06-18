@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ficha_rpg/ficha.dart';
+import 'ficha.dart';
 
 import 'ficha_feita.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ficha_rpg/criar_pericia.dart';
-import 'package:flutter_ficha_rpg/ficha.dart';
+import 'criar_pericia.dart';
+import 'ficha.dart';
 
 class CriarFicha extends StatefulWidget {
 
