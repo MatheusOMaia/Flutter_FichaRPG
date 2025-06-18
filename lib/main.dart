@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "Ficha RPG OP",
       theme: ThemeData(
-        scaffoldBackgroundColor: const Color.fromARGB(255, 88, 12, 12), // Fundo vermelho escuro
+        scaffoldBackgroundColor: Colors.pinkAccent, // Fundo Rosa
 
         // Estilo global para campos de texto
         inputDecorationTheme: const InputDecorationTheme(
